@@ -1,0 +1,12 @@
+sevensegment.c:4:6:ssSetDigit	16	static
+sevensegment.c:28:6:ssDisplayZero	8	static
+sevensegment.c:33:6:ssDisplayOne	8	static
+sevensegment.c:37:6:ssDisplayTwo	8	static
+sevensegment.c:42:6:ssDisplayThree	8	static
+sevensegment.c:47:6:ssDisplayFour	8	static
+sevensegment.c:51:6:ssDisplayFive	8	static
+sevensegment.c:56:6:ssDisplaySix	8	static
+sevensegment.c:61:6:ssDisplaySeven	8	static
+sevensegment.c:65:6:ssDisplayEight	8	static
+sevensegment.c:70:6:ssDisplayNine	8	static
+sevensegment.c:75:6:ssDisplay	24	static
